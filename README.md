@@ -2,7 +2,7 @@
 ![enter image description here](https://www.zupimages.net/up/20/40/jjpg.jpg) 
 
 
-## Déscription
+## Description
 
 Dans ce projet, il nous est demandé de créer un programme avec une CLI en Javascript.
 Grâce aux flèches gauche et droite, nous devons être dans la possibilité de voir s’afficher un
